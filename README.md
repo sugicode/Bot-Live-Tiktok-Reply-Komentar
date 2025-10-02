@@ -17,7 +17,7 @@ Bot TikTok Live yang otomatis membalas komentar menggunakan AI Gemini. Bot ini d
 * 🔐 **Authentication Support**: Mendukung login untuk mengirim balasan
 * ⚡ **Rate Limiting**: Delay otomatis untuk menghindari spam
 
-## 🚀 Quick Start
+## 🚀 ![Quick Start](https://github.com/sugicode/Bot-Live-Tiktok-Reply-Komentar/blob/main/QUICK_START.md)
 
 ### 1. Clone dan Install
 
