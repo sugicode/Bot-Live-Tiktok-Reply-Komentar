@@ -197,7 +197,15 @@ Bot ini dibuat untuk tujuan edukasi dan pengembangan. Pastikan untuk:
 ## 📄 License
 
 Project ini menggunakan MIT License - lihat file LICENSE untuk detail.
+<h2 id="dukungan">💌 Dukungan</h2>
 
+Kalian bisa mendukung saya di platform trakteer! Dukungan kalian akan sangat membantu untuk saya, namun dengan anda star project ini juga sudah sangat membantu lho!
+
+<p></p>
+
+<a href="https://trakteer.id/sugicode" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+
+<p></p>
 ## 🙏 Credits
 
 * [TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector) - Library untuk koneksi TikTok Live
