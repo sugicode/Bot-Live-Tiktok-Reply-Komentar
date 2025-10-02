@@ -4,7 +4,7 @@ Bot TikTok Live yang otomatis membalas komentar menggunakan AI Gemini. Bot ini d
 
 ## 📸 Screenshot
 
-![TikTok AI Bot Screenshot](.jpg)
+![TikTok AI Bot Screenshot](https://raw.githubusercontent.com/sugicode/Bot-Live-Tiktok-Reply-Komentar/refs/heads/main/1.png)
 
 ## ✨ Fitur
 
