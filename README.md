@@ -204,7 +204,7 @@ Project ini menggunakan MIT License - lihat file LICENSE untuk detail.
 * [Google Gemini AI](https://ai.google.dev/) - AI untuk generate balasan
 * Dibuat dengan ❤️ untuk komunitas developer Indonesia
 
-  <h2 id="dukungan">💌 Dukungan</h2>
+##<h2 id="dukungan">💌 Dukungan</h2>
 
 Kalian bisa mendukung saya di platform trakteer! Dukungan kalian akan sangat membantu untuk saya, namun dengan anda star project ini juga sudah sangat membantu lho!
 
