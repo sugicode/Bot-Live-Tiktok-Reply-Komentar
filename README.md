@@ -22,7 +22,7 @@ Bot TikTok Live yang otomatis membalas komentar menggunakan AI Gemini. Bot ini d
 ### 1. Clone dan Install
 
 ```bash
-git clone https://github.com/AutoFTbot/tiktok-ai-auto-reply-live.git
+git clone https://github.com/sugicode/Bot-Live-Tiktok-Reply-Komentar.git
 cd tiktok-ai-auto-reply-live
 npm install
 ```
